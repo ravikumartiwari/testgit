@@ -3,5 +3,9 @@ test2
 
 HELLO  12345
 
+<<<<<<< HEAD
 
 from Local
+=======
+from GIT
+>>>>>>> refs/remotes/origin/master
