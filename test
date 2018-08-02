@@ -8,4 +8,8 @@ new git
 NEW add frm local
 
 
+<<<<<<< HEAD
 FROM LOCAL
+=======
+FRM GIT
+>>>>>>> refs/remotes/origin/master
